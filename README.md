@@ -20,3 +20,7 @@ Long Term:
 
 - [ ] Accuracy Improvements
 - [ ] Machine Learning
+
+__________________________
+Dependencies:
+requests, bs4, urllib, matplotlib, numpy
